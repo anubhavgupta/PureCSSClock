@@ -154,7 +154,7 @@ body {
                 animation: time 86400s infinite steps(24);
             }
             .needle-mil-sec{
-                animation: time 10s infinite linear;
+                animation: time 1s infinite linear;
             }
 
 
