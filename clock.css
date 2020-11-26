@@ -16,6 +16,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    flex-direction: column;
 }
     .clock-container{
         width: 400px;
@@ -185,7 +186,10 @@ body {
                 color: black;
                 letter-spacing: -2px;
             }
-
+body div > a {
+    margin-top: 40px;
+    display: inline-block;
+}
 
 /*KEYFRAMES*/
 
